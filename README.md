@@ -7,7 +7,7 @@
      socket base64 shutil zipfile sqlite3 pycrypto subprocess win32crypt pycryptodome customtkinter
 ```
 
-# SOCIAL
+## SOCIAL
 ```markdown
                                    t.me/whalestealer - discord.gg/zakon
 ```
