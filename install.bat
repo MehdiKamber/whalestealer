@@ -1,0 +1,11 @@
+pip install subprocess
+pip install customtkinter
+pip install shutil
+pip install base64
+pip install sqlite3
+pip install socket
+pip install zipfile
+pip3 uninstall crypto 
+pip3 uninstall pycrypto 
+pip3 install pycryptodome
+pip install win32crypt
