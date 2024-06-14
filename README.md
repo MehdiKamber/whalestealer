@@ -1,6 +1,6 @@
-![whalestealer_1](https://github.com/MehdiKamber/whalestealer/assets/150480101/8cb16ab1-c1e2-410a-a303-85df00bda127)
+![whalestealer_1](https://github.com/MehdiKamber/whalestealer/assets/150480101/30a367ff-0bb3-4985-9e26-47609ccba12a)
 
-![whalestealer_2](https://github.com/MehdiKamber/whalestealer/assets/150480101/a46ead6c-ffc1-4238-9dc9-f456fdd5abde)
+![whalestealer_2](https://github.com/MehdiKamber/whalestealer/assets/150480101/ea408248-1abb-48e2-9634-2b74d8f61963)
 
 ## LIBRARIES
 ```markdown
