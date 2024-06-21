@@ -9,5 +9,5 @@
 
 ## SOCIAL
 ```markdown
-                                        t.me/whalestealer
+                                             t.me/whalestealer
 ```
