@@ -9,5 +9,5 @@
 
 ## SOCIAL
 ```markdown
-                                   t.me/whalestealer - discord.gg/zakon
+                                        t.me/whalestealer
 ```
